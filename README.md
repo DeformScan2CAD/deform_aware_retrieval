@@ -3,4 +3,4 @@
 
 ECCV 2020
 
-<img src="assets/embedding.png" width="480" alt="centered image">
+<img src="assets/intro_image.png" width="640" alt="centered image">
